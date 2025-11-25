@@ -19,7 +19,7 @@ title: zhangzw0170 # the main title
 tagline: 一个致力于安全通信事业的年轻人 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  zhangzw0170 的个人博客，记录学习笔记与技术文章，内容涵盖嵌入式 Linux、网络安全、编程开发等领域。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

@@ -1,6 +1,5 @@
 ---
     title: Firefly ROC-RK3566-PC 板卡上配置 PaddleOCR v4 到 NPU 实现图片文字识别
-    author: 张志文
     date: 2025-11-25 15:44:00 +0800
     categories: [嵌入式 Linux]
     tags: [文字识别, RK3566, NPU, PaddleOCR]
