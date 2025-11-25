@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: zhangzw0170 # the main title
+title: The Second State # the main title
 
-tagline: 一个致力于安全通信事业的年轻人 # it will display as the subtitle
+tagline: zhangzw0170, 一个致力于安全通信事业的年轻人 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   zhangzw0170 的个人博客，记录学习笔记与技术文章，内容涵盖嵌入式 Linux、网络安全、编程开发等领域。
