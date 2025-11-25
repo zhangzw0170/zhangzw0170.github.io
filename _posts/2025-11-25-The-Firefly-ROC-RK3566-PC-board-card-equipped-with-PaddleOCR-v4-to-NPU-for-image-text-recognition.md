@@ -1,9 +1,9 @@
 ---
-    title: Firefly ROC-RK3566-PC 板卡上配置 PaddleOCR v4 到 NPU 实现图片文字识别
-    date: 2025-11-25 15:44:00 +0800
-    categories: [嵌入式 Linux]
-    tags: [文字识别, RK3566, NPU, PaddleOCR]
-    pin: true
+title: Firefly ROC-RK3566-PC 板卡上配置 PaddleOCR v4 到 NPU 实现图片文字识别
+date: 2025-11-25 15:44:00 +0800
+categories: [嵌入式 Linux]
+tags: [文字识别, RK3566, NPU, PaddleOCR]
+pin: true
 ---
 
 > **摘要**：本文记录了如何在资源极度受限的 **Firefly ROC-RK3566-PC** 开发板（1GB RAM + 8GB ROM, Kylin OS）上，为自研局域网聊天软件 **ZFeiQ** 成功部署离线中文 OCR 功能。通过 **FP16 推理 + Pillow 替代 OpenCV + 极简依赖管理**，在仅剩 3GB 存储空间的板子上实现了 NPU 硬件加速，中文识别准确率 > 95%，且运行时内存占用较低（约 10 MB）。

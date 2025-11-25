@@ -1,8 +1,8 @@
 ---
-    title: 《神游一瞬》001
-    date: 2025-10-15 23:52:00 +0800
-    categories: [神游一瞬 Fleeting Reverie]
-    tags: [神游一瞬 Fleeting Reverie]
+title: 《神游一瞬》001
+date: 2025-10-15 23:52:00 +0800
+categories: [神游一瞬 Fleeting Reverie]
+tags: [神游一瞬 Fleeting Reverie]
 ---
 
 今早沿着Gogo那条路骑车去图书馆，路上阳光很好，照在围墙里侧的宿舍楼上，让正在骑车的我愣住了神。

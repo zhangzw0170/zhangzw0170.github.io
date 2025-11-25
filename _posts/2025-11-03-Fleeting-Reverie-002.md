@@ -1,8 +1,8 @@
 ---
-    title: 《神游一瞬》002
-    date: 2025-11-03 23:21:00 +0800
-    categories: [神游一瞬 Fleeting Reverie]
-    tags: [神游一瞬 Fleeting Reverie]
+title: 《神游一瞬》002
+date: 2025-11-03 23:21:00 +0800
+categories: [神游一瞬 Fleeting Reverie]
+tags: [神游一瞬 Fleeting Reverie]
 ---
 
 十一月三日，想起是巴学园举行运动会的日子。
