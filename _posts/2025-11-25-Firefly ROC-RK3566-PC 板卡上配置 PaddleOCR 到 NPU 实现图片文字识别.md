@@ -21,6 +21,9 @@
 * **图像处理**：主程序彻底抛弃 OpenCV，改用 **Pillow (PIL)** + **Numpy**，安装包仅几 MB。
 * **推理引擎**：使用 `rknn_toolkit_lite2` 直接调用 NPU 硬件。
 
+### PP-OVR v3 与 ZFeiQ 联合演示：
+![软件与 NPU 分别跑通](/assets/image/2025-11-25/软件和NPU分别跑通.png)
+
 ---
 
 ## 二、 PC 端准备
@@ -260,7 +263,7 @@ if __name__ == "__main__":
 ```
 
 生成的测试图片效果：<span id="test_img"></span>
-![test.jpg](/assets/image/2025-11-24/test.jpg)
+![test.jpg](/assets/image/2025-11-25/test.jpg)
 
 ### 5. 检查文件
 
