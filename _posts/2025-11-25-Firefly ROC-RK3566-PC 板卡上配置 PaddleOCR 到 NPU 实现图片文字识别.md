@@ -52,7 +52,7 @@ zhangzw0170@LAPTOP-5DE9621H:~/proj/firefly_rk3566_SDK/external$
 ```
 > 注意：请根据你的 PC Python 版本选择对应的 whl，这里的 cp3x 对应 Python 3.x 版本，我用的是 Python 3.8。
 
-上面的 2 个包分别是：<a id="RKNN-toolkit-preparation"></a>
+上面的 2 个包分别是：<span id="RKNN-toolkit-preparation"></span>
 - rknn_toolkit_lite2-1.6.0-cp38-cp38-linux_aarch64.whl：**复制出来备用**，在 3.2 节安装到板卡上用
 - rknn_toolkit2-1.6.0+81f21f4d-cp38-cp38-linux_x86_64.whl：执行下面的命令安装到 WSL，这个包可以在 x64 的机子上模拟 RK3566 的 NPU 工作
 
@@ -260,7 +260,7 @@ if __name__ == "__main__":
 
 ```
 
-生成的测试图片效果：<a id="test_img"></a>
+生成的测试图片效果：<span id="test_img"></span>
 ![test.jpg](/assets/image/2025-11-24/test.jpg)
 
 ### 5. 检查文件
