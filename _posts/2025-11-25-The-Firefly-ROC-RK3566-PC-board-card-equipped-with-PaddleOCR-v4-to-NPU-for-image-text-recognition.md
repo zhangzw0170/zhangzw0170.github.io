@@ -671,6 +671,8 @@ Done.
 
 可以看到，实际运行结果与 PC 端仿真结果相当符合，结果喜人。
 
+![NPU 调用成功](/assets/image/2025-11-25/11.NPU调用成功.jpg)
+
 ---
 
 ## 五、 PPOCR v4 与 v3 的识别比较
@@ -718,6 +720,9 @@ W Query dynamic range failed. Ret code: RKNN_ERR_MODEL_INVALID. (If it is a stat
    Box 3: 'HellNeuralProcessing UnitU!' (Conf: 0.81)
    Box 4: 'PaddlerOCR by ZFeiQ:' (Conf: 0.95)
 ```
+
+![12.PPOCRv4（左上）与PPOCRv3（左下）的对比](/assets/image/2025-11-25/12.PPOCRv4（左上）与PPOCRv3（左下）的对比.jpg)
+
 ---
 
 ## 六、 总结与展望
