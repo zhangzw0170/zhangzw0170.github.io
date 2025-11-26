@@ -85,7 +85,7 @@ order: 4
 ## 🔗 友情链接 (Friends)
 
 * [**circlΣmoon's blog**](https://www.circlemoon.top)
-  > “人首先要活着，爱才有所附丽。”
+  > “人首先要活着，爱才有所附丽。” <br>
   > “Knowledge isn't free. You have to pay attention.”
 
 ---

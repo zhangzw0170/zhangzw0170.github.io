@@ -1,8 +1,9 @@
 ---
 title: 《神游一瞬》004
 date: 2025-11-21 01:05:00 +0800
-categories: [神游一瞬 Fleeting Reverie]
-tags: [神游一瞬 Fleeting Reverie]
+author: Ex1stence
+categories: [随笔, 神游一瞬 Fleeting Reverie]
+tags: [神游]
 ---
 
 不困，来写点流水账。
