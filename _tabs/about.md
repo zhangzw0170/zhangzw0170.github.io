@@ -50,7 +50,7 @@ order: 4
 
 #### 大二下
 
-- **基于 STM32 的简易直流电子负载 \[工程应用训练项目\]**
+- **\<合作项目\> 基于 STM32 的简易直流电子负载 \[工程应用训练项目\]**
   - 全权负责软件开发，基于 STM32F103 + INA226 + MCP4725，这是我第一次真正推开软硬结合的大门。
   - [Github 开源仓库](https://github.com/zhangzw0170/Electronic_Load)
   - [立创开源硬件平台](https://oshwhub.com/snowynight/Simple_DC_Electronic_Load)
